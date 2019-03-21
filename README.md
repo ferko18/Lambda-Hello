@@ -60,4 +60,4 @@ Push further by practicing the way you amend an existing commit.
 2. Push your amended commit to GitHub.
 3. Leave a comment saying so on your pull request and call out your project manager by GitHub user-id.
 
-test Firealem Erko 
+test alternate reality 
